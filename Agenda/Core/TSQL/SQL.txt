@@ -1,0 +1,13 @@
+﻿create database Agenda
+go
+use Agenda
+go
+
+create table Note
+(
+id int primary key,
+title nvarchar(50) not null,
+content nvarchar(200),
+date datetime not null
+)
+go

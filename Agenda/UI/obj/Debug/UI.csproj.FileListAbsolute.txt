@@ -1,0 +1,16 @@
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.MainForm.resources
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.AddNote.resources
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.ShowNote.resources
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\bin\Debug\UI.exe.config
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\bin\Debug\UI.exe
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\bin\Debug\UI.pdb
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\bin\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\bin\Debug\Core.pdb
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.exe
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.pdb
+D:\Users\FEYZA\Visual Studio Projects\Agenda\UI\obj\Debug\UI.SkipToDate.resources

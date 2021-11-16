@@ -1,0 +1,6 @@
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\bin\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\bin\Debug\Core.pdb
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\obj\Debug\Core.dll
+D:\Users\FEYZA\Visual Studio Projects\Agenda\Core\obj\Debug\Core.pdb
